@@ -1,0 +1,2 @@
+# go_lifegame
+Go言語の勉強のためにlifegameを書いてみた
